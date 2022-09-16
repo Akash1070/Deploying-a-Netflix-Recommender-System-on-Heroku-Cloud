@@ -59,7 +59,7 @@ import requests
 [Click HERE To View App](https://netflix-recommendation-system7.herokuapp.com/)
 
 ## Screenshot
-![Click HERE To View]([https://drive.google.com/file/d/1najoi6wHru4HHOLCJpOLEgeFu1M31TRr/view?usp=sharing](https://drive.google.com/file/d/1najoi6wHru4HHOLCJpOLEgeFu1M31TRr/view?usp=sharing))
+![Click HERE To View](https://github.com/Akash1070/Deploying-a-Netflix-Recommender-System-on-Heroku-Cloud/blob/main/Preview.png)
 
 
 ## 🚀 About Me
