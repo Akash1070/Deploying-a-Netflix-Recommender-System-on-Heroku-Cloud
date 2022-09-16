@@ -10,6 +10,19 @@ We use web scraping to get the reviews given by the user in the IMDB site using 
 
 - [@Akash Kumar Jha](https://github.com/Akash1070)
 
+## Running Flask Api
+
+To run tests, run the following command
+
+```bash
+  python app.py
+```
+
+## Running Heroku Tests
+
+To run a Heroku deployment tests, click on the following link:
+
+[Netflix Recommender System App](https://netflix-recommendation-system7.herokuapp.com/)
 
 ## Deployment
 
@@ -41,14 +54,12 @@ import pickle
 import requests
 
 ```
-    
-## Running Flask Api
+## Demo
 
-To run tests, run the following command
+[Click HERE To View App](https://netflix-recommendation-system7.herokuapp.com/)
 
-```bash
-  python app.py
-```
+## Screenshot
+![Logo](https://drive.google.com/file/d/1najoi6wHru4HHOLCJpOLEgeFu1M31TRr/view?usp=sharing)
 
 
 ## 🚀 About Me
