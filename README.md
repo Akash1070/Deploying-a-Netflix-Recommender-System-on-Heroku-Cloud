@@ -59,7 +59,7 @@ import requests
 [Click HERE To View App](https://netflix-recommendation-system7.herokuapp.com/)
 
 ## Screenshot
-![Logo](https://drive.google.com/file/d/1najoi6wHru4HHOLCJpOLEgeFu1M31TRr/view?usp=sharing)
+![Click HERE To View](https://drive.google.com/file/d/1najoi6wHru4HHOLCJpOLEgeFu1M31TRr/view?usp=sharing)
 
 
 ## 🚀 About Me
