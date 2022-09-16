@@ -1,6 +1,14 @@
 
 # **Building And Deploying A Netflix Recommender System On Heruko**
 
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![HTML 4.01](https://img.shields.io/badge/HTML-4.01-skyblue.svg)
+![CSS3](https://img.shields.io/badge/CSS3-pink.svg)
+![sklearn](https://img.shields.io/badge/Library-sklearn-orange.svg)
+![Numpy](https://img.shields.io/badge/Library-Numpy-blue.svg)
+![flask](https://img.shields.io/badge/Library-flask-white.svg)
+![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)
+
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API.
